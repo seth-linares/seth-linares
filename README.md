@@ -1,7 +1,7 @@
 # 🐈 Seth Linares 🐈
 
 - 😸 Hello, I'm Seth Linares!!
-- 👀 I’m interested in ML/AI, Rust, C#, Python, C++ (though Rust is really winning me over), TypeScript, React, and anything that challenges me and reminds me why I love Computer Science.
+- 👀 I’m interested in ML/AI, C#, Python, Rust, C++ (though Rust is really winning me over), TypeScript, React, and anything that challenges me and reminds me why I love Computer Science.
 - 🌱 I’m currently learning how to develop my own Vision Transformer (ViT). After finishing up with that, I plan to switch over and try to create one for audio 😎😎.
 - 📫 Feel free to reach out at sethlinares1@gmail.com.
 - 😄 Pronouns: He/Him.
